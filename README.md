@@ -9,3 +9,5 @@ Small Projects and Assignments coded in the Reinforcement Learning course
 5. Try Prioritized Replay in cartPole to push average score beyond 200.
 
 ### CartPole Animation
+https://github.com/Girik-Khullar/RLCodes/assets/95034347/b809d924-ce64-40eb-90d5-4d5ea6b1a7e9
+
